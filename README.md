@@ -1,4 +1,4 @@
-# Habifian_Portofolio ![](https://github.com/habifiansltn/Habifian_Portofolio/blob/main/Images/250238.jpg)
+# Habifian_Portofolio ![](/Images/250238.jpg)
 Hi! my name is Muhammad Habifian Sultan and welcome to my **Data Science Portofolio**, on this portofolio will show you data science projects completed by me for academic, self learning, and hobby purposes.
 ## [Project 1: IBM HR Analytics Employee Attrition. Predict attrition of your valuable employees](https://github.com/habifiansltn/Fullname-Habifian-_Class-JCDSAH-_FinPro-) 
 (Data source: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset.)
@@ -14,11 +14,11 @@ Employees are the backbone of the organization. Organization's performance is he
 <li>Impact profit</li>
 </ol>
 
-![](https://github.com/habifiansltn/Habifian_Portofolio/blob/main/Images/Attrition.png)
+![](/Images/Attrition.png)
 
-![](https://github.com/habifiansltn/Habifian_Portofolio/blob/main/Images/Gender.png)
+![](/Images/Gender.png)
 
-![](https://github.com/habifiansltn/Habifian_Portofolio/blob/main/Images/JobRole.png)
+![](/Images/JobRole.png)
 
-![](https://github.com/habifiansltn/Habifian_Portofolio/blob/main/Images/Overtime.png)
+![](/Overtime.png)
 
