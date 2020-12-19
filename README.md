@@ -1,6 +1,6 @@
 # Habifian_Portofolio
 Hi! my name is Muhammad Habifian Sultan and welcome to my **Data Science Portofolio**, on this portofolio will show you data science projects completed by me for academic, self learning, and hobby purposes.
-# Project 1: IBM HR Analytics Employee Attrition & Performance <br> Predict attrition of your valuable employees 
+## Project 1: IBM HR Analytics Employee Attrition & Performance <br> Predict attrition of your valuable employees 
 (Data source: https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset.)
 
 IBM has gathered information on employee satisfaction, income, seniority and some demographics. It includes the data of 1470 employees. To use a matrix structure, we changed the model to reflect the following data<br>
