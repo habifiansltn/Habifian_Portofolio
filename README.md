@@ -1,2 +1,2 @@
 # Habifian_Portofolio
-This repository purpose is to show some project that i have been doing.
+Hi! my name is Muhammad Habifian Sultan and welcome to my Data Science portofolio this portofolio will show you data science projects completed by me for academic, self learning, and hobby purposes.
