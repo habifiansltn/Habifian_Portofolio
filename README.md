@@ -13,6 +13,7 @@ Employees are the backbone of the organization. Organization's performance is he
 <li>Impact in productivity</li>
 <li>Impact profit</li>
 </ol>
+
 ![](https://github.com/habifiansltn/Habifian_Portofolio/blob/main/Images/Attrition.png)
 
 ![](https://github.com/habifiansltn/Habifian_Portofolio/blob/main/Images/Gender.png)
