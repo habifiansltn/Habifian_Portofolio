@@ -16,9 +16,3 @@ Employees are the backbone of the organization. Organization's performance is he
 
 ![](/Images/Attrition.png)
 
-![](/Images/Gender.png)
-
-![](/Images/JobRole.png)
-
-![](/Overtime.png)
-
